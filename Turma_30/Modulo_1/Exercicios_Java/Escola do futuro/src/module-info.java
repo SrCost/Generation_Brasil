@@ -1,0 +1,2 @@
+module GenerationBrasil_EscolaDoFuturo {
+}
